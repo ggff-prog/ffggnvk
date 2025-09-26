@@ -1,15 +1,15 @@
 [
   {
-    "id": "fda965226a0b6814",
-    "username": "Ahem",
-    "password": "8279",
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "af7ee431501e1915",
-    "username": "Riyan",
-    "password": "444",
+    "id": "fda965226a0b6814",
+    "username": "Ahem",
+    "password": "8279",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
