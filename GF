@@ -14,6 +14,13 @@
     "allowOffline": true
   },
   {
+    "id": "f1adf6954a67342b",
+    "username": "XRL",
+    "password": "444",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "43c0253dfd7c0a5e",
     "username": "XRL",
     "password": "444",
