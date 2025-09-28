@@ -15,5 +15,5 @@
   "dialogBackgroundColor": "#FFFFFF",
   
   // FIX: Expiry date/time set to a date in the past (Jan 1, 2024)
-  "expiryDateTime": "2025-10-10T12:10:PMZ" 
+  "expiryDateTime": "2024-10-10T12:10:PMZ" 
 }
