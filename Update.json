@@ -1,22 +1,20 @@
 {
-  "version_code": 2019115661,
-  "title_update": "Update Available",
-  "title_made_by": "Riyan444?",
-  "title_color": "#FF0000",
-  "description": [
-    "Improved performance and speed",
-    "Enhanced security features",
-    "New user interface design"
-  ],
-  "notes": [
-    "Latest performance improvements",
-    "Security enhancements overview",
-    "New UI design guide",
-    "Update FAQs and support"
-  ],
-  "telegram_link": "https://t.me/dripsilent",
-  "update_link": "https://youtube.com/@riyan444?si=-DnsvlQpJv6nLXnC",
-  "dialog_exit_on_false": true,
-  "expiry_date": "2024-10-29",
-  "expiry_time": "23:59:59"
+  "showDialog": true,
+  "appVersionCode": 1,
+  "minDate": "2024-01-01",
+  "maxDate": "2025-09-28",
+  "minTime": "12:00:00 AM",
+  "maxTime": "11:59:59 PM",
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
