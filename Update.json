@@ -1,8 +1,8 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "minDate": "2024-01-01",
-  "maxDate": "2025-09-29",
+  "minDate": "2025-09-29",
+  "maxDate": "2025-09-30",
   "minTime": "12:00:00 AM",
   "maxTime": "05:59:59 PM",
   "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
