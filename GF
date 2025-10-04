@@ -1,22 +1,12 @@
-[
-  {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },{
-    "id": "4db3d7d426979429",
-    "username": "Riyan",
-    "password": "444",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
+{
+  "latest_version": "1.0.5",
+  "update_required": true,
+  "release_date": "2025-01-01",
+  "changelog": [
+    "New feature: Added support for X",
+    "Bug fix: Resolved stability issues",
+    "Performance improvement in module Y"
+  ],
+  "download_url": "https://example.com/latest_app_v1.0.5.zip",
+  "file_size_kb": 2048
+}
